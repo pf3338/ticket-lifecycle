@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this lab, we will be demonstrating how to receive, assign, work on, and resolve tickets. To do this, we will start by creating tickets as end users. Login as an end user and make a few tickets each with different scenarios, help topics, and severity levels (measured by the SLA the ticket was marked with).
 </p>
 <br />
 
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, login as an admin and head to the admin panel. Make your way to the "Tickets" tab. This is where you will be able to see all incoming tickets from end users. Assign your tickets to different agents (you can also assign tickets to yourself).
 </p>
 <br />
 
@@ -44,6 +44,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After assigning your tickets, update the SLA plans if necessary. This only has to be done if the end user marks a ticket with an incorrect plan. Add remarks if necessary.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, begin working on the ticket. You can sign in as one of the agents you assigned your tickets to, or you can work on the tickets you assigned to your admin account. Once complete, leave a message, mark the ticket as resolved, and post your message to the ticket thread. You will be able to see tickets that have been previously worked on, updates, and messages sent between end users and admins in ticket threads.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lastly, begin working on your tickets. You can sign in as one of the agents you assigned your tickets to, or you can work on the tickets you assigned to your admin account. Once complete, leave a message, mark the ticket as resolved, and post your message to the ticket thread. You will be able to see tickets that have been previously worked on, updates, and messages sent between end users and admins in ticket threads.
 </p>
 <br />
