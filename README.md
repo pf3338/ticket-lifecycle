@@ -52,14 +52,6 @@ After assigning your tickets, update the SLA plans if necessary. This only has t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, begin working on the ticket. You can sign in as one of the agents you assigned your tickets to, or you can work on the tickets you assigned to your admin account. Once complete, leave a message, mark the ticket as resolved, and post your message to the ticket thread. You will be able to see tickets that have been previously worked on, updates, and messages sent between end users and admins in ticket threads.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Lastly, begin working on your tickets. You can sign in as one of the agents you assigned your tickets to, or you can work on the tickets you assigned to your admin account. Once complete, leave a message, mark the ticket as resolved, and post your message to the ticket thread. You will be able to see tickets that have been previously worked on, updates, and messages sent between end users and admins in ticket threads.
 </p>
 <br />
